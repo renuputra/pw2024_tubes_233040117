@@ -39,7 +39,7 @@ if( isset($_POST["cari"]) ) {
                  <img src="img/f1.jpeg" alt="Hero Image">
                 </div>
                 <div class="content">
-                    <h2>Hasil F1 GP Monako 2024: Diwarnai Drama, Leclerc Juara</h2>
+                    <h2 href="https://sport.detik.com/f1/d-7358850/hasil-f1-gp-monako-2024-diwarnai-drama-leclerc-juara">Hasil F1 GP Monako 2024: Diwarnai Drama, Leclerc Juara</h2>
                     <p> Charles Leclerc tampil sebagai juara Formula 1 GP Monako. Pebalap Ferrari itu tampil dominan dalam balapan yang diwarnai drama di awal.Balapan GP Monako di Circuit de Monaco, Minggu (26/5/2024) langsung diwarnai insiden selepas start. Carlos Sainz langsung menepi karena masalah, tapi ia terselamatkan karena tak lama kemudian red flag berkibar.</p>
                 </div>
             </div>
